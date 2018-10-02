@@ -1,0 +1,23 @@
+/*Element Selector*/
+p {
+	font-size: 20px;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+/*ID Selector*/
+
+#body {
+	color: red;
+	text-align: center;
+}
+
+#music {
+	text-align: center;
+	font-family: courier new;
+}
+
