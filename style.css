@@ -9,15 +9,34 @@ h1 {
 	text-align: center;
 }
 
-/*ID Selector*/
+img {
+	height: 400px;
+	width: 400px;
+	margin-right: 485px;
+	margin-left: 500px;
+	
+}
 
-#body {
+audio {
+	margin-left: 575px;
+	margin-right: 450px;
+}
+
+/*Class Selector*/
+
+.body {
 	color: red;
 	text-align: center;
 }
 
-#music {
+.name {
+	color: red;
+	text-align: center;
+}
+
+.music {
 	text-align: center;
 	font-family: courier new;
+
 }
 
